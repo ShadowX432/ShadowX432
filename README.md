@@ -4,7 +4,6 @@
 - 🎮 My favourite games are Overwatch, Hearthstone, Animal Crossing, Magic the Gathering, and Pokemon!
 - 👾 I graduated from Brock University with a Degree in Computer Science and an advanced diploma in Game Development from Niagara College in 2023.
 - ❗ I have 2 years of game development as a team and have developed 3 Games during my time in school. I have 2 Years experience in C#, Unity,
-- 
 
 <!---
 ShadowX432/ShadowX432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
